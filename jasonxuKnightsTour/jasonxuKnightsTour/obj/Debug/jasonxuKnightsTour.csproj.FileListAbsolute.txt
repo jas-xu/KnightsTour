@@ -1,0 +1,10 @@
+C:\Users\jason\source\repos\jasonxuKnightsTour\jasonxuKnightsTour\bin\Debug\jasonxuKnightsTour.exe.config
+C:\Users\jason\source\repos\jasonxuKnightsTour\jasonxuKnightsTour\bin\Debug\jasonxuKnightsTour.exe
+C:\Users\jason\source\repos\jasonxuKnightsTour\jasonxuKnightsTour\bin\Debug\jasonxuKnightsTour.pdb
+C:\Users\jason\source\repos\jasonxuKnightsTour\jasonxuKnightsTour\obj\Debug\jasonxuKnightsTour.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\jasonxuKnightsTour\jasonxuKnightsTour\obj\Debug\jasonxuKnightsTour.Form1.resources
+C:\Users\jason\source\repos\jasonxuKnightsTour\jasonxuKnightsTour\obj\Debug\jasonxuKnightsTour.Properties.Resources.resources
+C:\Users\jason\source\repos\jasonxuKnightsTour\jasonxuKnightsTour\obj\Debug\jasonxuKnightsTour.csproj.GenerateResource.cache
+C:\Users\jason\source\repos\jasonxuKnightsTour\jasonxuKnightsTour\obj\Debug\jasonxuKnightsTour.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\jasonxuKnightsTour\jasonxuKnightsTour\obj\Debug\jasonxuKnightsTour.exe
+C:\Users\jason\source\repos\jasonxuKnightsTour\jasonxuKnightsTour\obj\Debug\jasonxuKnightsTour.pdb
